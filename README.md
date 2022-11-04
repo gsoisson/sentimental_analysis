@@ -1,4 +1,4 @@
-# sentimental_analysis
+# Sentimental Analysis of Twitter Profiles
 
 The goal of this notebook is to visualize the sentiment of a target user's tweets.
 
